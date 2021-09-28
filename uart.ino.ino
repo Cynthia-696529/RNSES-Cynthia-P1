@@ -24,7 +24,7 @@ if(Serial.available() > 0){
             if ( dato(i+1) == "("){
               //ADC(x)
               t = (int)dato(i+2);
-               //aplicar el periodo
+               //aplicar el periodo Ojo! en el caso que sea un 0
             }else{
               //ADC
             }
