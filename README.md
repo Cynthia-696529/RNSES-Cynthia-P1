@@ -10,6 +10,7 @@
 Familiarización con el sistema de desarrollo ESP32, implementación en el entorno de desarrollo IDE. Se realizan tareas para la configuración y control de diferentes módulos hardware, módulo ADC, módulo PWM, comando UART. 
 ## Tarea 1
 Leer valor módulo ADC y mostrarlo por consola. 
+Nota: la velocidad de transmisión que se establece en el código debe de ser la misma que aparece en la ventana del monitor serie sino no aparecerá ningún dato.
 
 * https://github.com/Cynthia-696529/RNSES_Cynthia_P1/blob/8f9715e3c8107f534491f495e7dce7eef6a4bbb7/adc.ino
 ## Tarea 2
